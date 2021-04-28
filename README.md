@@ -54,19 +54,17 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 ## Stats :bar_chart:
 <br>
 
-<span style="display:flex; justify-content:center;" >
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30&custom_title=Stats&hide_rank=true" width="250" style="margin-right:5px"/>
 
-<span style="margin-right:10px;" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab&card_width=240" width="270" /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30&custom_title=Stats&hide_rank=true)
+</p>
 
-</span>
 
-<span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab&card_width=240)]
 
-</span>
+
 
 </span>
 
