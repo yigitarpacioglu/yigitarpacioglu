@@ -58,7 +58,7 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 
 <span style="margin-right:10px;" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30&custom_title=Stats&hide_rank=true)
 
 </span>
 
