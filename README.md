@@ -22,10 +22,17 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 -> 📫 How to reach me: yigit.arpacioglu@gmail.com  <br>
 -> :man_student: I'm from Yıldız Technical University <br>
 -> ⚡ Fun fact: I love camping and taking landscape photos <br>
-  
+
+<br>  
+
 ## Contact me :mailbox:
+
+<br>
+
 [![Mail Badge](https://img.shields.io/badge/-yigit.arpacioglu@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yigit.arpacioglu@gmail.com) <br>
 [![Linkedin Badge](https://img.shields.io/badge/-YiğitArpacioglu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigit-arpacioglu/) 
+
+<br>
 
 ## Technologies :wrench:
 <br>
@@ -41,14 +48,25 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 [![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![BootStrap Badge](https://img.shields.io/badge/-BootStrap-7952B3?style=for-the-badge&labelColor=black&logo=BootStrap&logoColor=7952B3)](#)
 <br>
+<br>
 
 
 ## :bar_chart: Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby)
+<span style="display:flex; justify-content:center;" >
 
+<span style="margin-right:20px;" >
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30)
+
+</span>
+
+<span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab)]
+
+</span>
 
 </span>
 
