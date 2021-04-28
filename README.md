@@ -51,12 +51,12 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 <br>
 
 
-## :bar_chart: Stats
+## Stats :bar_chart:
 <br>
 
 <span style="display:flex; justify-content:center;" >
 
-<span style="margin-right:20px;" >
+<span style="margin-right:10px;" >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30)
 
