@@ -64,7 +64,7 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 
 <span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab&line_height=0)]
 
 </span>
 
