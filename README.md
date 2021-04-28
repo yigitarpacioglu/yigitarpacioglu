@@ -55,10 +55,10 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 <br>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30&custom_title=Stats&hide_rank=" width="358"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=30&custom_title=Stats&hide_rank=true" width="300"/>
  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab&card_width=240" width="210" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitarpacioglu&theme=great-gatsby&layout=compact&hide=matlab&card_width=240" width="323" /> 
 
 </p>
 
