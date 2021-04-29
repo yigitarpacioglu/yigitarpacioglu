@@ -65,7 +65,7 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 <br>
 
 <p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark" width="90%" /> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark" width="650" /> 
 </p>>
 
 
