@@ -3,7 +3,7 @@
 ## Hi there !!!
 
 |
-<img src="https://user-images.githubusercontent.com/75935753/116562121-92596a80-a90b-11eb-8384-d512cce72471.gif" class="center"  height=100>|
+<img src="https://user-images.githubusercontent.com/75935753/116562121-92596a80-a90b-11eb-8384-d512cce72471.gif" class="center"  height=100> |
 
 # ![visitors](https://visitor-badge.glitch.me/badge?page_id=yigitarpacioglu.visitor-badge) <img src="https://img.shields.io/github/stars/yigitarpacioglu?color=orange&label=Stars"> <img src="https://img.shields.io/github/followers/yigitarpacioglu?color=success&label=Followers">
 
