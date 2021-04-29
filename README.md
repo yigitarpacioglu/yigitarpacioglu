@@ -5,7 +5,7 @@
 I'm Yiğit! I have found my passion in web development. I spend most of my time in front of the screen and trying to be better day by day.
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="1000" height="350">
+<img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="800" height="250">
 <br>
 
 
