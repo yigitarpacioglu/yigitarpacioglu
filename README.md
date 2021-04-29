@@ -19,7 +19,7 @@ I'm Yiğit! I have found my passion in web development. I spend most of my time 
 
 -> 🔭 I’m currently working on Reddit Clone Project <br>
 -> 🌱 I’m currently learning ASP.NET MVC <br>
--> :man-student: I'm from Yıldız Technical University <br>
+-> :man_student: I'm from Yıldız Technical University <br>
 -> ⚡ Fun fact: I love camping and taking landscape photos <br>
 
 <br>
