@@ -5,14 +5,14 @@
 <p>
 <img src="https://user-images.githubusercontent.com/75935753/116562121-92596a80-a90b-11eb-8384-d512cce72471.gif" class="center"  height=100> </p>
 
-# <img src="https://visitor-badge.glitch.me/badge?page_id=yigitarpacioglu.visitor-badge"> <img src="https://img.shields.io/github/stars/yigitarpacioglu?color=orange&label=Stars"> <img src="https://img.shields.io/github/followers/yigitarpacioglu?color=success&label=Followers">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=yigitarpacioglu.visitor-badge"> <img src="https://img.shields.io/github/stars/yigitarpacioglu?color=orange&label=Stars"> <img src="https://img.shields.io/github/followers/yigitarpacioglu?color=success&label=Followers">
 
-## 
+
 
 <p><img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="600" height="280"></p>
 
 <p>I'm Yiğit! I have found my passion in web development. I spend most of my time with coding and trying to be better day by day.</p>
-
+<br>
 
 
 [![Html Badge](https://img.shields.io/badge/-C%23-6A1577?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=6A1577)](#)
