@@ -26,12 +26,6 @@
 
 <br>
 
-<p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yigitarpacioglu&theme=react-dark" width="635" /> 
-</p>>
-
-
-
 ## Contact me :mailbox:
 
 <br>
