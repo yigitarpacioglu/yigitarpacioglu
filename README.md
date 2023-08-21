@@ -12,27 +12,6 @@
 <p><img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="600" height="280"></p>
 
 
-[![Html Badge](https://img.shields.io/badge/-C%23-6A1577?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=6A1577)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=Angular&logoColor=DD0031)](#)
-[![Html Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft-SQL-Server&logoColor=CC2927)](#)
-[![Angular Badge](https://img.shields.io/badge/-Java-ffa500?style=for-the-badge&labelColor=black&logo=Angular&logoColor=DD0031)](#)
-<br>
-
-[![Html Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![css Badge](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#)
-
-
-
-
-<br>
-
--> 🌱 I’m currently learning ASP.NET MVC <br>
--> :man_student: I'm from Yıldız Technical University <br>
--> ⚡ Fun fact: I love camping and taking landscape photos <br>
-
-<br>
-
-
 ## Stats :bar_chart:
 
 <br>
